@@ -1,0 +1,14 @@
+numpy
+Pillow
+protobuf
+six
+tensorboardX
+torch
+torchvision
+tqdm
+pandas
+h5py
+matplotlib
+xarray
+netCDF4
+scipy
